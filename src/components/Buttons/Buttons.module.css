@@ -1,0 +1,12 @@
+.center {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+  }
+  .center button {
+    margin: 0 10px;
+  }
+  
+  
